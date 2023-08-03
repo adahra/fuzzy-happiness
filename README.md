@@ -1,3 +1,3 @@
 # fluttergeo
 
-A new Flutter project.
+A new Flutter project. Get GPS position from devices.
